@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shravani Admin</string>
+    <string name="wait_for_autoVerification">Wait for Auto Verification</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="verify">Verify</string>
+    <string name="register_mobile">Register Mobile Number</string>
+    <string name="enter_mobile_no">Enter Mobile Number</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
